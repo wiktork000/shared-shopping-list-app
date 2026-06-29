@@ -1,0 +1,54 @@
+# Logs
+
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Frontend / Node
+
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/.vite/
+*.local
+
+# Java / Gradle
+
+backend/build/
+backend/.gradle/
+*.class
+out/
+
+# Environment / secrets
+
+.env
+.env.*
+!.env.example
+application-local.properties
+application-dev.properties
+application-prod.properties
+
+# IDE
+
+.idea/
+.vscode/
+backend/.vscode/
+frontend/.vscode/
+
+# OS
+
+.DS_Store
+Thumbs.db
+
+# Misc editor/project files
+
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
