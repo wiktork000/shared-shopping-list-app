@@ -59,17 +59,16 @@ The application is based on three main domain entities:
 
 ## My Role and Contributions
 
-This was a team project. I contributed to selected parts of the application implementation and integration work.
+This was an academic team project. I contributed to selected backend/frontend integration tasks and worked with the application structure across the Spring Boot backend, Vue frontend and MySQL database.
 
-My work involved understanding and working with a full-stack architecture consisting of a Spring Boot backend, a Vue frontend and a MySQL database. I participated in implementing and testing application features related to shopping list management, product handling and user workflows.
+My work included:
 
-Through this project, I practiced:
+* working with DTO-based request and response structures,
+* connecting selected frontend views with backend API endpoints,
+* supporting CRUD-oriented flows for shopping lists and products,
+* testing user scenarios related to list management, product handling and shared access,
+* working with the backend structure based on controllers, services, Hibernate entities and repositories,
+* helping verify authentication and access-control related behavior from the user workflow perspective.
 
-* working with a Java Spring Boot backend,
-* using Hibernate-based persistence,
-* connecting frontend views with backend API endpoints,
-* implementing CRUD-oriented application logic,
-* reasoning about user authentication and access control,
-* working in a team project structure with separate frontend and backend modules.
+The project helped me practice building and integrating a full-stack web application with separate backend, frontend and database layers. It also gave me practical experience with Java/Spring-based backend development, REST-style communication and team project organization.
 
-The project helped me better understand how a web application is structured across backend, frontend and database layers.
